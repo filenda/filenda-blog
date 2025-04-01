@@ -17,11 +17,10 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 
 ## 2. How I Use It
 
-I use a tiny paper system to track my Pomodoro cycles. Each square represents 30-minute intervals, and completing two full squares means I've achieved four hours of deep, focused work.
+I use a tiny paper system to track my Pomodoro cycles. Each side of the square represents 30-minute intervals, thus a whole square equals 2hours of deep-focus. This is just to make things ludical and entertaining to compare to other days (like, "today I'm going to try and complete 3 full squares").
 
 To track both the deep-focus cycles and the tiny rest periods, I use either the MacOS or Windows timer, or even my Android phone timer. When choosing the best tool to track the intervals, make sure to pick something noisy/loud to catch your attention.
 
-![Tiny Pomodoro Control Paper](/static/images/posts/pomodoro/pomodoro-1.jpeg)
 ![Tiny Pomodoro Control Paper](/static/images/posts/pomodoro/pomodoro-1.jpeg)
 _This is exactly how I visually track my Pomodoro cycles._
 
