@@ -41,6 +41,7 @@ More practical examples:
 - **Studying for exams:** It works great to avoid burnout during long study sessions.
 - **Coding:** Programmers love it—especially those with ADHD.
 - **Social media calendar planning:** It can be boring to sit for hours planning content. Pomodoro works well for that kind of repetitive task.
+- **"Personal trainers and coaches:** Lots of student workout plans to create or update, but no focus or discipline to sit for hours on end.
 
 ## 4. What It Doesn’t Work Well For
 
