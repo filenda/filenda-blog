@@ -41,7 +41,7 @@ More practical examples:
 - **Studying for exams:** It works great to avoid burnout during long study sessions.
 - **Coding:** Programmers love it—especially those with ADHD.
 - **Social media calendar planning:** It can be boring to sit for hours planning content. Pomodoro works well for that kind of repetitive task.
-- **"Personal trainers and coaches:** Lots of student workout plans to create or update, but no focus or discipline to sit for hours on end.
+- **Personal trainers and coaches:** Lots of student workout plans to create or update, but no focus or discipline to sit for hours on end.
 
 ## 4. What It Doesn’t Work Well For
 
@@ -49,6 +49,7 @@ More practical examples:
 - **Inspiration-Driven Activities:** Tasks that rely heavily on sustained motivation can suffer from being artificially segmented.
 - **Low Energy Levels:** If you’re not sleeping well, not exercising, not drinking enough water, or not eating properly, don’t expect great results. Pomodoro helps enable deep focus—it doesn’t compensate for poor habits.
 - **Lack of Motivation or Clarity:** This is probably the most important tip. Pomodoro works when you _already know_ the task is important to you. You’ve made the decision to engage, and now you’re just looking for the right tool to stay on track. Pomodoro helps maintain discipline—but discipline and clarity of purpose come first.
+- **Lack of Organization or Prioritization**: Pomodoro is most effective when you’ve already decided what to focus on. If your tasks are scattered, unclear, or not ranked by importance, you’ll waste your time working in circles. The method helps you stay locked in, but it can’t tell you where to start. Before setting the timer, make sure you’ve mapped out your goals and chosen the right next step—clarity and structure lay the foundation for focused work.
 
 ## 5. Rules to Follow, but Break If You Need
 
