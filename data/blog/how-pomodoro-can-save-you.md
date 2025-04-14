@@ -60,4 +60,14 @@ More practical examples:
 4. After completing four cycles, take a **longer break (15–30 minutes)**.
 5. Preferably, **don’t pause the timer**. However, emergencies happen—if your grandmother hurts her knee in jiu-jitsu class, feel free to pause it (keeping interruptions rare and humorous is ideal!).
 
+## 6. Suggestions for what to do on resting intervals
+
+- Medidate
+- Dish washing
+- Vaccuuming the room
+- Put the dishes back in the cupboard
+- Put your dirty clothes to wash
+- Have a nice strecht
+- Avoid cheap dopamine such as social media feed scrolling during the resting intervals. It can make it harder to get back on the grind / focus mode
+
 Ultimately, adapt these guidelines to your personal work style. The goal is to maintain productivity while enjoying your tasks more.
